@@ -8,5 +8,5 @@ import lombok.ToString;
 public class LocationDTO {
     private Double latitude;
     private Double longitude;
-    private String Name;
+    private String name;
 }
